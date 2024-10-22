@@ -62,7 +62,7 @@ O projeto foi estilizado, utilizando CSS3. Foi criado uma pasta css, que inclui 
     * width: A propriedade define a largura de um elemento;
     * heigth: A propriedade define a altura de um elemento.
 
-![Estilização do container](img/container.PNG)
+![Estilização do container](img/Container.PNG)
 
 ## Tecnologias
 
