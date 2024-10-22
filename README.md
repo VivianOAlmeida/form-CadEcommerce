@@ -13,20 +13,42 @@ Projeto criado como parte avaliativa da disciplina de Fundamentos de Desenvolvim
 
 ### Descrição
 
-O projeto consiste na composição de uma tela de login que possibilita o usuário inserir email e senha, porém sem realizar a entrada em um site.
+O projeto envolve a criação de três telas de cadastro:
+
+* A primeira tela solicita informações pessoais, incluindo nome, data de nascimento, sexo, endereço de email, entre outras.
+* A segunda tela pede informações de endereço, como endereço completo, cidade, estado e cep.
+* A terceira tela gera uma mensagem de confirmação de que o registro foi efetuado com sucesso.
+
+O projeto foi desenvolvido durante a aula, utilizando diversos elementos do HTML5 e propriedades do CSS3.
 
 ### Resultado do Projeto
 
-![Resultado final do projeto](img/resultado-final.PNG)
+![Resultado final do projeto - 1](img/Pag.1.PNG)
+![Resultado final do projeto - 2](img/Pag.2.PNG)
+![Resultado final do projeto - 3](img/Pag.3.PNG)
+
+### Confecção
+
+O projeto foi confeccionado, utilizando HTML5. Foi criado um arquivo form.html. Nesse arquivo, constam configurações apresentadas a seguir:
+
+    * Main - Define o conteúdo principal dentro do body em seu documento ou aplicação.
+    * Form - Define o formulário e os atributos que definem a maneira como esse formulário se comporta
+    * Label - Dá nome para a área de escrita, seja e-mail ou senha.
+    * Input -  Permite que o usuário escreva na página.
+    * Button -  Cria um botão clicável.
+    * a - Href - Se o elemento 'a' possuir o atributo 'href', ele representa um hiperlink (âncora de hipertexto) rotulado pelo seu conteúdo.
+
+![construção do projeto](img/estrutura.PNG)
 
 ### Estilização
 
-O projeto foi estilizado, utilizando CSS3. Foi criado um arquivo login.css. Nesse arquivo, constam configurações de estilo apresentadas a seguir:
+O projeto foi estilizado, utilizando CSS3. Foi criado uma pasta css, que inclui três arquivos. Nesse arquivo, constam configurações de estilo apresentadas a seguir:
 
 * Estilo de cores:
     * background-color: altera cor de fundo.
+    * color: altera cor do elemento
 
-![Imagem demonstrando uso do elemento citado](img/background-color.PNG)
+![Imagem demonstrando uso do elemento citado](img/colors.PNG)
 
 * Estilo de fonte:
     * font-family: Permite definir uma lista de prioridades para famílias de fontes de um elemento selecionado.
@@ -55,11 +77,7 @@ O projeto foi estilizado, utilizando CSS3. Foi criado um arquivo login.css. Ness
 [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github<br>
 [lohhans](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - Um modelo para fazer um bom README<br>
 [Dio](https://www.dio.me/articles/personalize-o-readme-no-github) - Personalize o README no Github<br>
-[mozilla](https://developer.mozilla.org/pt-BR/docs/Web/CSS/font-family) - Explica o uso do font-family<br>
-[w3schools](https://www.w3schools.com/cssref/pr_class_display.php) - Explica o uso do display<br>
-[w3schools - 2](https://www.w3schools.com/cssref/css3_pr_justify-content.php) - Explica o uso do justify-items e do align-items<br>
-[w3schools - 3](https://www.w3schools.com/cssref/pr_dim_width.php) - Explica o uso do width<br>
-[w3schools - 4](https://www.w3schools.com/cssref/pr_dim_height.php) - Explica o uso do heigth<br>
+[w3schools](https://www.w3schools.com) - informação sobre diversos elementos de html e css
 
 ## Autor(a)
 
